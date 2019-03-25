@@ -7,7 +7,7 @@ import java.util.*;
  */
 public class Student {
 
-    Map<String, Lab> labMap;
+    private Map<String, Lab> labMap;
     public Student() {
         this(null);
     }

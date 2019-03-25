@@ -8,7 +8,7 @@ import java.util.Arrays;
  */
 public class TicTacToe {
 
-    String [][] board;
+    private String [][] board;
     public TicTacToe(String[][] board) {
         this.board = board;
     }

@@ -5,7 +5,7 @@ package rocks.zipcode.io.quiz3.collections;
  */
 public class Lab {
     private String name;
-    LabStatus labStatus;
+    private LabStatus labStatus;
     public Lab() {
         this(null);
     }
